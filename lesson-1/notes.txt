@@ -1,0 +1,8 @@
+LESSONS HERE:
+https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+PT101+2021_T1/courseware/f20cd699fac3480b99004d1fc3f265ef/845d38b9935540d8a766d4a9d1f63a78/?child=first
+
+evens.py is for the functions
+test_evens.py is for the tests
+
+Unittest requires that our test filename starts with the word ‘test’,  
+followed by an underscore and a descriptive name of what we’re testing.
