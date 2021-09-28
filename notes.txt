@@ -6,3 +6,8 @@ test_evens.py is for the tests
 
 Unittest requires that our test filename starts with the word ‘test’,  
 followed by an underscore and a descriptive name of what we’re testing.
+
+When refactoring, always remember DRY - DON'T REPEAT YOURSELF
+
+Because you built your function with tests, you can delete things when 
+refactoring and if it's a needed step for the function it will fail your tests
